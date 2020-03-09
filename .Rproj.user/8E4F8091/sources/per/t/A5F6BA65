@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583793959429.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "925120945",
+    "id" : "A5F6BA65",
+    "lastKnownWriteTime" : 1583531005,
+    "last_content_update" : 1583531005,
+    "path" : "C:/Users/cralas1/FtoCTest/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "17,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
